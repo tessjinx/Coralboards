@@ -404,7 +404,7 @@ background: linear-gradient(315deg,#e6e926,#d8db20);
 }
 
 .skill-item:hover .skill-des h3 {
-  color: #ffa800;
+  color: #e1e436;
 }
 
 
@@ -412,7 +412,7 @@ background: linear-gradient(315deg,#e6e926,#d8db20);
 .mask {
   width: 0%;
   height: 100%;
-  background: rgba(3, 31, 53, 0.5);
+  background: rgba(9, 65, 102, 0.5);
   position: absolute;
   top: 0;
   left: 0;
@@ -428,58 +428,6 @@ background: linear-gradient(315deg,#e6e926,#d8db20);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*#sec3{
-    background-color: #ffffff;
-    background-size: cover;
-    background-attachment: fixed;
-    display:flex;
-   
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    width: 100%;
-
-    padding: 50px ;
-    height: 100vh;
-    
-    
-}*/
 
 #sec4{
     background-color: rgba(250, 250, 250, 0.5);
@@ -505,15 +453,6 @@ background: linear-gradient(315deg,#e6e926,#d8db20);
 
 
 
-
-
-/*.content1{
-    width: 30rem;
-    height: 35rem;
-    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 2);
-    position: relative;
-    font-family: 
-}*/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
 *
@@ -683,15 +622,15 @@ footer::before{
   background: #AFAFB6;
 }
 footer .content{
-  max-width: 1250px;
+  max-width: 1200px;
   margin: auto;
-  padding: 100px 120px 200px 100px;
+  padding: 100px 250px 220px 100px;
 }
 footer .content .top{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 50px;
+  margin-bottom: 55px;
 }
 .content .top .logo-details{
   color: #fff;
@@ -703,7 +642,7 @@ footer .content .top{
 .content .top .media-icons a{
   height: 40px;
   width: 40px;
-  margin: 0 8px;
+  margin: 0 7px;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
